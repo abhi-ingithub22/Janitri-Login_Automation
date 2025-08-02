@@ -4,23 +4,6 @@ This project is part of a QA Internship assignment for Janitri, focused on autom
 
 ---
 
-## 📁 Project Structure
-
-janitri-login-automation/
-├── pom.xml
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── pages/
-│ │ └── LoginPage.java
-│ └── test/
-│ └── java/
-│ ├── tests/
-│ │ └── LoginTest.java
-│ └── BaseTest.java
-
----
-
 ## 🧰 Technologies Used
 
 - 💻 Java
